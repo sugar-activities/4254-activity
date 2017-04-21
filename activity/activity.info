@@ -1,0 +1,8 @@
+[Activity]
+name = Kandid
+service_name = net.sourceforge.kandid
+class = activity.KandidActivity
+icon = activity-kandid
+activity_version = 9
+show_launcher = yes
+mime_types = application/x-kandid-activity;

@@ -1,0 +1,459 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-03-31 22:02+0200\n"
+"PO-Revision-Date: 2010-04-28 15:48+0200\n"
+"Last-Translator: Clytie Siddall <clytie@riverland.net.au>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.0.3\n"
+
+# Tên
+#: activity/activity.info:2
+msgid "Kandid"
+msgstr "Kandid"
+
+#: ep_modifier_rectangulartile.py:104
+#, python-format
+msgid "Rectangular tile modifier: %d*x, %d*y"
+msgstr "Bộ sửa đổi gạch lát hình chữ nhật: %d*x, %d*y"
+
+#: ep_sampler_rectilineargrid.py:117
+#, python-format
+msgid "Rectilinear grid sampler: %d*x, %d*y"
+msgstr "Bộ lấy mẫu lưới thẳng: %d*x, %d*y"
+
+#: ep_layer_filledspline.py:199 ep_layer_quadtree.py:196
+#: ep_layer_markovchain.py:292 ep_layer_letterpress.py:228
+#: ep_layer_voronoidiagram.py:274
+msgid "Layer "
+msgstr "Lớp "
+
+#: ep_layer_filledspline.py:202
+msgid "line color:"
+msgstr "màu đường:"
+
+#: ep_layer_filledspline.py:203
+msgid "line width: "
+msgstr "độ rộng đường: "
+
+#: ep_layer_filledspline.py:204
+msgid "roundness: "
+msgstr "sự tròn: "
+
+#: ep_layer_filledspline.py:205
+msgid "fill color:"
+msgstr "màu tô đầy:"
+
+#: ep_layer_filledspline.py:206 ep_layer_letterpress.py:236
+msgid "center:"
+msgstr "tâm:"
+
+#: ep_layer_filledspline.py:209 ep_layer_markovchain.py:299
+#: ep_layer_letterpress.py:239 ep_layer_voronoidiagram.py:284
+msgid "sampling points: "
+msgstr "điểm lấy mẫu: "
+
+#: ep_colorconstraint_none.py:67
+#, python-format
+msgid "%d%% red, %d%% green, %d%% blue, %d%% opaque"
+msgstr "%d%% đỏ, %d%% lục, %d%% xanh, %d%% đục"
+
+#: ep_colorconstraint_none.py:70
+#, python-format
+msgid "%d%% red, %d%% green, %d%% blue"
+msgstr "%d%% đỏ, %d%% lục, %d%% xanh"
+
+#: ep_stamp_svg.py:180
+#, python-format
+msgid "Theme is %s. Patterns are in SVG format: "
+msgstr "Sắc thái là %s. Mẫu theo định dạng SVG: "
+
+#: ep_colorgamut_monchrome.py:69
+msgid "Monochromatic color scheme"
+msgstr "Lược đồ đơn sắc"
+
+#: ep_stamp_glyph.py:234 ep_layer_letterpress.py:232
+msgid "Font: "
+msgstr "Phông: "
+
+#: ep_stamp_glyph.py:235
+msgid "A collection of characters from category : "
+msgstr "Một tập hợp ký tự từ phân loại: "
+
+#: ep_modifier_flip.py:93
+msgid "Flip modifier: flip horizontally and vertically."
+msgstr "Lật bộ sửa đổi: lật theo chiều ngang và dọc."
+
+#: ep_modifier_flip.py:95
+msgid "Flip modifier: flip horizontally."
+msgstr "Lật bộ sửa đổi: lật theo chiều ngang."
+
+#: ep_modifier_flip.py:97
+msgid "Flip modifier: flip vertically."
+msgstr "Lật bộ sửa đổi: lật theo chiều dọc."
+
+#: ep_modifier_flip.py:99
+msgid "Flip modifier: did not flip."
+msgstr "Lật bộ sửa đổi: không lật."
+
+#: ep_merger_mask.py:150 ep_merger_combine.py:171
+msgid "Compositing drawing operator for left node: "
+msgstr "Toán tử vẽ ghép lại cho nút bên trái: "
+
+#: ep_merger_mask.py:152 ep_merger_combine.py:173
+msgid "Alpha blending of left node: "
+msgstr "Hợp nhau alpha của nút bên trái: "
+
+#: ep_merger_mask.py:156
+msgid "Compositing used right node as a mask surface."
+msgstr "Nút bên phải được dùng ghép lại dưới dạng một mặt lọc."
+
+#: ep_modifier_border.py:120
+msgid "Border modifier, border weight="
+msgstr "Bộ sửa đổi viền, độ đậm viền="
+
+#: ep_modifier_border.py:122
+msgid " alpha="
+msgstr "  alpha="
+
+#: ep_page_gettingstarted.py:56
+msgid "Getting started"
+msgstr "Bất đầu dùng"
+
+#: ep_page_gettingstarted.py:57
+msgid "Read the Introduction"
+msgstr "Đọc Giới thiệu"
+
+#: ep_page_gettingstarted.py:58
+msgid "Show image population"
+msgstr "Hiện số các ảnh"
+
+# nghĩa chữ ? tên tập tin ?
+#: ep_page_gettingstarted.py:65
+msgid "getting_started"
+msgstr "getting_started"
+
+#: model_layer.py:105
+msgid "Painters algorithm: "
+msgstr "Thuật toán của thợ sơn: "
+
+#: model_layer.py:106
+msgid "Seed value for random generator: "
+msgstr "Giá trị gieo hạt cho bộ tạo ngẫu nhiên: "
+
+#: model_treenode.py:315
+msgid "Details for merging node "
+msgstr "Chi tiết về nút trộn "
+
+#: model_treenode.py:318
+msgid "left background color:"
+msgstr "màu nền bên trái:"
+
+#: model_treenode.py:323
+msgid "right background color:"
+msgstr "màu nền bên phải:"
+
+#: model_treenode.py:329
+msgid "Details for modifying node "
+msgstr "Chi tiết về nút sửa đổi "
+
+#: ep_stamp_filledcyclic.py:120
+msgid "Square root of number of edges: "
+msgstr "Căn bậc hai của số cạnh: "
+
+#: activity.py:179
+msgid "Activity is shared."
+msgstr "Hoạt động dùng chung."
+
+#: activity.py:188 activity.py:235
+#, python-format
+msgid "I am '%s', my handle in that group is %u."
+msgstr "Tên tôi là « %s »: tên hiệu của tôi trong nhóm đó là %u."
+
+#: activity.py:231
+msgid "Joined an existing shared activity."
+msgstr "Đã tham gia một hoạt động dùng chung đã có."
+
+#: model_protozoon.py:110
+msgid "protozoon "
+msgstr "protozoon "
+
+#: model_protozoon.py:121
+msgid "Final image, all layers are combined"
+msgstr "Ảnh cuối cùng, tất cả các lớp được kết hợp với nhau"
+
+#: model_protozoon.py:123
+msgid "background color:"
+msgstr "màu nền:"
+
+#: ka_status.py:48
+msgid "Collaboration"
+msgstr "Hợp tác"
+
+#: ka_status.py:49
+msgid "My ID"
+msgstr "Mã số tôi"
+
+#: ka_status.py:50
+msgid "Share"
+msgstr "Chia sẻ"
+
+#: ka_status.py:51
+msgid "My tubes"
+msgstr "Ống tôi"
+
+#: ka_status.py:52
+msgid "Buddies participating"
+msgstr "Bạn bè đang tham gia"
+
+#: ka_status.py:53
+msgid "Buddies joined"
+msgstr "Bạn bè đã vào"
+
+#: ka_status.py:54
+msgid "Buddies left"
+msgstr "Bạn bè đã rời"
+
+#: ka_status.py:55
+msgid "Received latest"
+msgstr "Vừa nhận"
+
+#: ka_status.py:56
+msgid "Buddies found during startup"
+msgstr "Bạn bè được tìm trong khi khởi chạy"
+
+#: ka_status.py:58
+msgid "Tasks"
+msgstr "Tác vụ"
+
+#: ka_status.py:59
+msgid "Unfinished tasks"
+msgstr "Tác vụ chưa làm"
+
+#: ka_status.py:60
+msgid "Threads"
+msgstr "Nhánh"
+
+#: ka_status.py:61
+msgid "Virtual memory size"
+msgstr "Kích cỡ vùng nhớ ảo"
+
+#: ka_status.py:62
+msgid "Virtual memory peak size"
+msgstr "Kích cỡ đỉnh vùng nhớ ảo"
+
+#: ka_status.py:63
+msgid "Resident set size"
+msgstr "Kích cỡ tập hợp nội trú"
+
+#: ka_status.py:64
+msgid "Process ID"
+msgstr "Mã số tiến trình"
+
+#: ka_status.py:66
+msgid "Activity"
+msgstr "Hoạt động"
+
+#: ka_status.py:67
+msgid "Running"
+msgstr "Đang chạy"
+
+#: ep_layer_quadtree.py:198
+msgid "Probability of stepping one recursion step deeper: "
+msgstr "Xác suất bước lại đệ quy theo một bước: "
+
+#: ep_layer_quadtree.py:200
+msgid "Maximum recursion depth: "
+msgstr "Độ sâu đệ quy tối đa: "
+
+#: ep_layer_quadtree.py:202
+msgid "Width of the surrounding border: "
+msgstr "Độ rộng của viền chung quanh: "
+
+#: ep_layer_quadtree.py:205 ep_layer_voronoidiagram.py:281
+msgid "site colors:"
+msgstr "màu sắc tập trang:"
+
+#: ep_colorgamut_triadic.py:77
+msgid "Triadic color scheme"
+msgstr "Lược đồ màu ba ngôi"
+
+#: ep_sampler_centeredwalk.py:89
+#, python-format
+msgid "Centered random walk sampler: %d points"
+msgstr "Bộ lấy mẫu bước ngẫu nhiên đặt vào giữa: %d điểm"
+
+#: ep_merger_combine.py:177
+msgid "Compositing drawing operator for right node: "
+msgstr "Toán tử vẽ ghép lại cho nút bên phải: "
+
+#: ep_merger_combine.py:179
+msgid "Alpha blending of right node: "
+msgstr "Hợp nhau alpha của nút bên phải: "
+
+#: ep_layer_markovchain.py:295
+msgid "cell colors:"
+msgstr "màu sắc ô:"
+
+#: ep_layer_markovchain.py:296
+msgid "number of states: "
+msgstr "số tình trạng: "
+
+#: ep_layer_markovchain.py:304 ep_layer_voronoidiagram.py:289
+msgid "stamp: "
+msgstr "in hình: "
+
+#: ep_layer_letterpress.py:230
+msgid "buzzwords: "
+msgstr "thuật ngữ thông dụng: "
+
+#: ep_layer_letterpress.py:231
+msgid "text color:"
+msgstr "màu chữ:"
+
+#: ep_colorgamut_splitcomplementary.py:78
+msgid "Split complementary color scheme"
+msgstr "Lược đồ màu bù tách ra"
+
+#: ep_sampler_randomwalk.py:119
+#, python-format
+msgid "Random walk sampler: %d points"
+msgstr "Bộ lấy mẫu bước ngẫu nhiên: %d điểm"
+
+#: ep_sampler_squaregrid.py:100
+#, python-format
+msgid "Squarish grid sampler: %d*%d"
+msgstr "Bộ lấy mẫu lưới hình vuông: %d*%d"
+
+#: ep_colorconstraint_gray.py:61
+#, python-format
+msgid "%d%% gray, %d%% opaque"
+msgstr "%d%% xám, %d%% đục"
+
+#: ep_colorconstraint_gray.py:63
+#, python-format
+msgid "Color is reduced to shades of gray, %d%% gray"
+msgstr "Màu sắc bị giảm thành mức xám, %d%% xám"
+
+#: ep_modifier_mask.py:129
+msgid "Mask modifier, center="
+msgstr "Bộ sửa đổi mặt nạ, tâm="
+
+#: ep_modifier_mask.py:130
+msgid " direction="
+msgstr " hướng="
+
+#: ep_modifier_mask.py:131
+msgid " alpha1="
+msgstr " alpha1="
+
+#: ep_modifier_mask.py:132
+msgid " alpha2="
+msgstr " alpha2="
+
+#: ep_colorconstraint_bw.py:64
+msgid "black"
+msgstr "đen"
+
+#: ep_colorconstraint_bw.py:64
+msgid "white"
+msgstr "trắng"
+
+#: ep_colorconstraint_bw.py:65
+#, python-format
+msgid ", %d%% opaque"
+msgstr ", %d%% đục"
+
+#: ep_colorconstraint_bw.py:66
+msgid "Color is reduced to black and white, "
+msgstr "Màu sắc bị giảm thành đen trắng, "
+
+#: ka_widget.py:59
+msgid "Breed"
+msgstr "Sinh ra"
+
+#: ka_widget.py:60
+msgid "Random"
+msgstr "Ngẫu nhiên"
+
+#: ka_widget.py:61
+msgid "Flurry rate:"
+msgstr "Tỷ lệ nhộn nhịp:"
+
+#: ka_widget.py:62
+msgid "Population"
+msgstr "Số"
+
+#: ka_widget.py:63 ka_widget.py:76
+msgid "Zoom"
+msgstr "Thu Phóng"
+
+#: ka_widget.py:64
+msgid "Introduction"
+msgstr "Giới thiệu"
+
+#: ka_widget.py:65
+msgid "Status"
+msgstr "Trạng thái"
+
+#: ka_widget.py:66
+msgid "Ancestors"
+msgstr "Tổ tiên"
+
+#: ka_widget.py:73
+msgid "My favorite"
+msgstr "Ưa thích"
+
+#: ka_widget.py:74
+msgid "Awful bore, replace it"
+msgstr "Không thích"
+
+#: ka_widget.py:75
+msgid "Publish to my friends"
+msgstr "Xuất tới bạn bè"
+
+#: ka_widget.py:77
+msgid "Send image to journal"
+msgstr "Gửi ảnh cho Nhật ký"
+
+#: ka_widget.py:82
+msgid "Accept protozoon"
+msgstr "Chấp nhận động vật nguyên sinh"
+
+#: ka_widget.py:83
+msgid "Decline protozoon"
+msgstr "Từ chối động vật nguyên sinh"
+
+#: ep_colorgamut_analogous.py:78
+msgid "Analogous color scheme"
+msgstr "Lược đồ màu tương tự"
+
+#: ep_layer_voronoidiagram.py:277
+msgid "Natural logarithm of order p used in Minkowski distance: "
+msgstr "Logarit tự nhiên bậc p dùng trong khoảng cách Minkowski: "
+
+#: ep_layer_voronoidiagram.py:279
+msgid "center points for sites:"
+msgstr "điểm tâm cho tập trang:"
+
+#: ep_colorgamut_complement.py:73
+msgid "Complementary color scheme"
+msgstr "Lược đồ màu bù"

@@ -1,0 +1,151 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-01-19 18:15+0100\n"
+"PO-Revision-Date: 2010-03-25 22:29+0200\n"
+"Last-Translator: Chris <cjl@laptop.org>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.0.3\n"
+
+#: activity/activity.info:2
+msgid "Kandid"
+msgstr "Kandid"
+
+#: ep_page_gettingstarted.py:52
+msgid "Getting started"
+msgstr "Come iniziare"
+
+#: ep_page_gettingstarted.py:53
+msgid "Read the Introduction"
+msgstr "Leggi l'Introduzione"
+
+#: ep_page_gettingstarted.py:54
+msgid "Show image population"
+msgstr "Mostra immagine della popolazione"
+
+#: ep_page_gettingstarted.py:61
+msgid "getting_started"
+msgstr "getting_started"
+
+#: activity.py:175
+msgid "Activity is shared."
+msgstr "L'attività è condivisa."
+
+#: activity.py:184 activity.py:231
+#, python-format
+msgid "I am '%s', my handle in that group is %u."
+msgstr "Io sono '%s', il mio riferimento nel gruppo è %u."
+
+#: activity.py:227
+msgid "Joined an existing shared activity."
+msgstr "Connesso ad una attività condivisa esistente."
+
+#: ka_status.py:39
+msgid "Collaboration"
+msgstr "Collaborazione"
+
+#: ka_status.py:40
+msgid "My ID"
+msgstr "La mia Identità"
+
+#: ka_status.py:41
+msgid "Share"
+msgstr "Condividi"
+
+#: ka_status.py:42
+msgid "My tubes"
+msgstr "I miei tubi"
+
+#: ka_status.py:43
+msgid "Buddies participating"
+msgstr "Amici che partecipano"
+
+#: ka_status.py:44
+msgid "Buddies joined"
+msgstr "Amici collegati"
+
+#: ka_status.py:45
+msgid "Buddies left"
+msgstr "Amici scollegati"
+
+#: ka_status.py:46
+msgid "Received latest"
+msgstr "Ultimi ricevuti"
+
+#: ka_status.py:47
+msgid "Buddies found during startup"
+msgstr "Amici trovato all'inizio"
+
+#: ka_status.py:49
+msgid "Tasks"
+msgstr "Compiti"
+
+#: ka_status.py:50
+msgid "Unfinished tasks"
+msgstr "Compiti da terminare"
+
+#: ka_status.py:52
+msgid "Activity"
+msgstr "Attività"
+
+#: ka_status.py:53
+msgid "Running"
+msgstr "In esecuzione"
+
+#: ka_widget.py:59
+msgid "Breed"
+msgstr "Alleva"
+
+#: ka_widget.py:60
+msgid "Random"
+msgstr "Casuale"
+
+#: ka_widget.py:61
+msgid "Flurry rate:"
+msgstr "Percentuale di movimento:"
+
+#: ka_widget.py:62
+msgid "Population"
+msgstr "Popolazione"
+
+#: ka_widget.py:63 ka_widget.py:75
+msgid "Zoom"
+msgstr "Zoom"
+
+#: ka_widget.py:64
+msgid "Introduction"
+msgstr "Presentazione"
+
+#: ka_widget.py:65
+msgid "Status"
+msgstr "Stato"
+
+#: ka_widget.py:72
+msgid "My favorite"
+msgstr "Miei favoriti"
+
+#: ka_widget.py:73
+msgid "Awful bore, replace it"
+msgstr "Molto noioso, sostituisci"
+
+#: ka_widget.py:74
+msgid "Publish to my friends"
+msgstr "Pubblica per i miei Amici"
+
+#: ka_widget.py:80
+msgid "Accept protozoon"
+msgstr "Accetta protozoo"
+
+#: ka_widget.py:81
+msgid "Decline protozoon"
+msgstr "Rinuncia al protozoo"

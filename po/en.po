@@ -1,0 +1,62 @@
+# English translations for PACKAGE package.
+# Copyright (C) 2009 Thomas Jourdan
+# This file is distributed under the GNU GENERAL PUBLIC LICENSE, Version 3.
+# Thomas Jourdan <b.vehikel@googlemail.com>, 2009.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-12-06 15:09+0100\n"
+"PO-Revision-Date: 2009-12-06 15:20+0100\n"
+"Last-Translator:  <strom@vehikel>\n"
+"Language-Team: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ka_widget.py:54
+msgid "Breed"
+msgstr "Breed"
+
+#: ka_widget.py:55
+msgid "Random"
+msgstr "Random"
+
+#: ka_widget.py:56
+msgid "Flurry rate:"
+msgstr "Flurry rate:"
+
+#: ka_widget.py:57
+msgid "Introduction"
+msgstr "Introduction"
+
+#: ka_widget.py:58
+msgid "Population"
+msgstr "Population"
+
+#: ka_widget.py:59
+msgid "My favorite"
+msgstr "My favorite"
+
+#: ka_widget.py:60
+msgid "Awful bore, replace it"
+msgstr "Awful bore, replace it"
+
+#: ka_widget.py:77
+msgid "Zoom"
+msgstr "Zoom"
+
+#: ka_widget.py:61
+msgid "Publish to my friends"
+msgstr "Publish to my friends"
+
+#: ka_widget.py:73
+msgid "Accept protozoon"
+msgstr "Accept protozoon"
+
+#: ka_widget.py:74
+msgid "Decline protozoon"
+msgstr "Decline protozoon"
+

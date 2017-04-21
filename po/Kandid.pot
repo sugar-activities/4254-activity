@@ -1,0 +1,580 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-01-30 09:51+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: activity/activity.info:2
+msgid "Kandid"
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/ep_page_status.py:54
+msgid "Size of the exported image in pixels: "
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/ep_page_status.py:83
+msgid "Status"
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/ep_sampler_squaregrid.py:100
+#, python-format
+msgid "Squarish grid sampler: %d*%d"
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/ep_stamp_glyph.py:234
+#: /home/strom/minimal/activities/Kandid.activity/ep_layer_letterpress.py:240
+msgid "Font: "
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/ep_stamp_glyph.py:235
+msgid "A collection of characters from category : "
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/ep_stamp_svg.py:187
+#, python-format
+msgid "Theme is %s. Patterns are in SVG format: "
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/ep_sampler_fermatspiral.py:167
+#, python-format
+msgid ""
+"Fermat's spiral sampler: center=%f,%f, start steps=%d, end steps=%d, radian=%"
+"f, scaling=%f"
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/ep_modifier_flip.py:102
+msgid "Flip modifier: flip horizontally and vertically."
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/ep_modifier_flip.py:104
+msgid "Flip modifier: flip horizontally."
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/ep_modifier_flip.py:106
+msgid "Flip modifier: flip vertically."
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/ep_modifier_flip.py:108
+msgid "Flip modifier: did not flip."
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/ep_layer_filledspline.py:202
+#: /home/strom/minimal/activities/Kandid.activity/ep_layer_lca.py:297
+#: /home/strom/minimal/activities/Kandid.activity/ep_layer_markovchain.py:294
+#: /home/strom/minimal/activities/Kandid.activity/ep_layer_voronoidiagram.py:276
+#: /home/strom/minimal/activities/Kandid.activity/ep_layer_letterpress.py:236
+#: /home/strom/minimal/activities/Kandid.activity/ep_layer_quadtree.py:200
+#: /home/strom/minimal/activities/Kandid.activity/ep_layer_circulararc.py:187
+msgid "Layer "
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/ep_layer_filledspline.py:205
+#: /home/strom/minimal/activities/Kandid.activity/ep_layer_circulararc.py:189
+msgid "line color:"
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/ep_layer_filledspline.py:206
+#: /home/strom/minimal/activities/Kandid.activity/ep_layer_circulararc.py:190
+msgid "line width: "
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/ep_layer_filledspline.py:207
+msgid "roundness: "
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/ep_layer_filledspline.py:208
+msgid "fill color:"
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/ep_layer_filledspline.py:209
+#: /home/strom/minimal/activities/Kandid.activity/ep_layer_letterpress.py:244
+msgid "center:"
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/ep_layer_filledspline.py:212
+#: /home/strom/minimal/activities/Kandid.activity/ep_layer_markovchain.py:301
+#: /home/strom/minimal/activities/Kandid.activity/ep_layer_voronoidiagram.py:286
+#: /home/strom/minimal/activities/Kandid.activity/ep_layer_letterpress.py:247
+#: /home/strom/minimal/activities/Kandid.activity/ep_layer_circulararc.py:196
+msgid "sampling points: "
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/ep_merger_mask.py:158
+#: /home/strom/minimal/activities/Kandid.activity/ep_merger_combine.py:177
+msgid "Compositing drawing operator for left node: "
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/ep_merger_mask.py:160
+#: /home/strom/minimal/activities/Kandid.activity/ep_merger_combine.py:179
+msgid "Alpha blending of left node: "
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/ep_merger_mask.py:164
+msgid "Compositing used right node as a mask surface."
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/ep_page_gettingstarted.py:78
+msgid "Read the Introduction"
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/ep_page_gettingstarted.py:84
+msgid "Show image population"
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/ep_page_gettingstarted.py:106
+msgid "Getting started"
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/ep_page_gettingstarted.py:119
+msgid "getting_started"
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/ep_layer_lca.py:299
+msgid "Number of states: "
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/ep_layer_lca.py:300
+msgid "Number of left neighbors: "
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/ep_layer_lca.py:301
+msgid "Number of right neighbors: "
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/ep_layer_lca.py:302
+msgid "Number of cells: "
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/ep_layer_lca.py:303
+msgid "Stability of sequence ordering: "
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/ep_layer_lca.py:305
+msgid "Cell colors:"
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/ep_sampler_randomwalk.py:121
+#, python-format
+msgid "Random walk sampler: %d points"
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/ep_colorgamut_splitcomplementary.py:78
+msgid "Split complementary color scheme"
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/ka_incoming.py:84
+#: /home/strom/minimal/activities/Kandid.activity/ep_page_zoom.py:56
+#: /home/strom/minimal/activities/Kandid.activity/ep_page_population.py:159
+msgid "Zoom"
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/ka_incoming.py:88
+msgid "Accept protozoon"
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/ka_incoming.py:92
+msgid "Decline protozoon"
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/ep_layer_markovchain.py:297
+msgid "cell colors:"
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/ep_layer_markovchain.py:298
+msgid "number of states: "
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/ep_layer_markovchain.py:306
+#: /home/strom/minimal/activities/Kandid.activity/ep_layer_voronoidiagram.py:291
+msgid "stamp: "
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/ep_colorgamut_analogous.py:78
+msgid "Analogous color scheme"
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/ep_stamp_star.py:168
+#, python-format
+msgid "start angle: %4.3f"
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/ep_stamp_star.py:169
+#, python-format
+msgid "line width: %4.3f"
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/ep_stamp_star.py:170
+msgid "Star stamp: number of rays: "
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/ep_colorgamut_monchrome.py:69
+msgid "Monochromatic color scheme"
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/ka_status.py:49
+msgid "Collaboration"
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/ka_status.py:50
+msgid "My ID"
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/ka_status.py:51
+msgid "Share"
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/ka_status.py:52
+msgid "My tubes"
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/ka_status.py:53
+msgid "Buddies participating"
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/ka_status.py:54
+msgid "Buddies joined"
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/ka_status.py:55
+msgid "Buddies left"
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/ka_status.py:56
+msgid "Received latest"
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/ka_status.py:57
+msgid "Buddies found during startup"
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/ka_status.py:59
+msgid "Tasks"
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/ka_status.py:60
+msgid "Unfinished tasks"
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/ka_status.py:61
+msgid "Threads"
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/ka_status.py:62
+msgid "Virtual memory size"
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/ka_status.py:63
+msgid "Virtual memory peak size"
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/ka_status.py:64
+msgid "Resident set size"
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/ka_status.py:65
+msgid "Process ID"
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/ka_status.py:67
+msgid "Activity"
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/ka_status.py:68
+msgid "Running"
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/ep_colorgamut_complement.py:73
+msgid "Complementary color scheme"
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/ep_page_population.py:68
+msgid "Breed"
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/ep_page_population.py:72
+msgid "Flurry rate:"
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/ep_page_population.py:84
+msgid "Random"
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/ep_page_population.py:144
+msgid "Population"
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/ep_page_population.py:151
+msgid "My favorite"
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/ep_page_population.py:155
+msgid "Awful bore"
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/ep_page_population.py:164
+msgid "Publish to my friends"
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/ep_page_population.py:167
+msgid "Send image to journal"
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/ep_page_population.py:170
+msgid "Send"
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/ep_page_population.py:175
+msgid "Explain details"
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/ep_page_population.py:178
+msgid "Show ancestors"
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/ep_page_population.py:181
+msgid "Explain"
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/ep_page_intro.py:56
+msgid "Introduction"
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/ep_colorconstraint_none.py:67
+#, python-format
+msgid "%d%% red, %d%% green, %d%% blue, %d%% opaque"
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/ep_colorconstraint_none.py:70
+#, python-format
+msgid "%d%% red, %d%% green, %d%% blue"
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/ep_stamp_filledcyclic.py:120
+msgid "Square root of number of edges: "
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/ep_colorconstraint_gray.py:61
+#, python-format
+msgid "%d%% gray, %d%% opaque"
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/ep_colorconstraint_gray.py:63
+#, python-format
+msgid "Color is reduced to shades of gray, %d%% gray"
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/model_protozoon.py:116
+msgid "protozoon "
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/model_protozoon.py:127
+msgid "Final image, all layers are combined"
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/model_protozoon.py:129
+msgid "background color:"
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/ep_layer_voronoidiagram.py:279
+msgid "Natural logarithm of order p used in Minkowski distance: "
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/ep_layer_voronoidiagram.py:281
+msgid "center points for sites:"
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/ep_layer_voronoidiagram.py:283
+msgid "site colors:"
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/ep_modifier_border.py:126
+msgid "Border modifier, border weight="
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/ep_modifier_border.py:128
+msgid " alpha="
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/activity.py:184
+msgid "Activity is shared."
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/activity.py:193
+#: /home/strom/minimal/activities/Kandid.activity/activity.py:240
+#, python-format
+msgid "I am '%s', my handle in that group is %u."
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/activity.py:236
+msgid "Joined an existing shared activity."
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/ep_sampler_affineifs.py:469
+msgid "Affine iterated function system sampler"
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/ep_sampler_affineifs.py:470
+#, python-format
+msgid "iterations=%d, transformations=%d symmetry=%d, Dn=%d: "
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/ep_sampler_rectilineargrid.py:117
+#, python-format
+msgid "Rectilinear grid sampler: %d*x, %d*y"
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/ep_layer_letterpress.py:238
+msgid "buzzwords: "
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/ep_layer_letterpress.py:239
+msgid "text color:"
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/ep_colorgamut_triadic.py:77
+msgid "Triadic color scheme"
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/ep_layer_quadtree.py:202
+msgid "Probability of stepping one recursion step deeper: "
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/ep_layer_quadtree.py:204
+msgid "Maximum recursion depth: "
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/ep_layer_quadtree.py:206
+msgid "Width of the surrounding border: "
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/ep_layer_quadtree.py:209
+msgid "Site colors:"
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/ep_sampler_logarithmicspiral.py:179
+#, python-format
+msgid ""
+"Logarithmic spiral sampler: center=%f,%f, revolutions=%f, steps per "
+"revolution=%d, a=%f, b=%f"
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/ep_modifier_mask.py:135
+msgid "Mask modifier, center="
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/ep_modifier_mask.py:136
+msgid " direction="
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/ep_modifier_mask.py:137
+msgid " alpha1="
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/ep_modifier_mask.py:138
+msgid " alpha2="
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/ep_colorconstraint_bw.py:64
+msgid "black"
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/ep_colorconstraint_bw.py:64
+msgid "white"
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/ep_colorconstraint_bw.py:65
+#, python-format
+msgid ", %d%% opaque"
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/ep_colorconstraint_bw.py:66
+msgid "Color is reduced to black and white, "
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/ep_layer_circulararc.py:191
+msgid "size: "
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/ep_layer_circulararc.py:192
+msgid "start angle: "
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/ep_layer_circulararc.py:193
+msgid "angle: "
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/ep_stamp_disk.py:144
+#, python-format
+msgid "dim out: %4.3f"
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/ep_stamp_disk.py:145
+#, python-format
+msgid "scale: %4.3f"
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/ep_stamp_disk.py:146
+msgid "Disk stamp: number of disks: "
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/ep_page_details.py:56
+msgid "Details"
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/model_treenode.py:338
+msgid "Details for merging node "
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/model_treenode.py:341
+msgid "left background color:"
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/model_treenode.py:346
+msgid "right background color:"
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/model_treenode.py:352
+msgid "Details for modifying node "
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/ep_page_ancestors.py:59
+msgid "Ancestors"
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/ep_merger_combine.py:183
+msgid "Compositing drawing operator for right node: "
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/ep_merger_combine.py:185
+msgid "Alpha blending of right node: "
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/model_layer.py:105
+msgid "Painters algorithm: "
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/model_layer.py:106
+msgid "Seed value for random generator: "
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/ep_modifier_rectangulartile.py:115
+#, python-format
+msgid "Rectangular tile modifier: %d*x, %d*y"
+msgstr ""
+
+#: /home/strom/minimal/activities/Kandid.activity/ep_sampler_centeredwalk.py:86
+#, python-format
+msgid "Centered random walk sampler: %d points"
+msgstr ""

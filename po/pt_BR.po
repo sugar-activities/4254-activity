@@ -1,0 +1,132 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-12-26 10:09+0100\n"
+"PO-Revision-Date: 2010-01-11 21:17-0400\n"
+"Last-Translator: Robson Mendonça <robsonmwoc@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pootle 1.2.1\n"
+
+#: activity/activity.info:2
+msgid "Kandid"
+msgstr "Kandid"
+
+#: activity.py:176
+msgid "activity is shared"
+msgstr "a atividade está compartilhada"
+
+#: activity.py:185 activity.py:232
+#, python-format
+#, fuzzy
+msgid "I am %s, my handle in that group is %u"
+msgstr "Eu estou %s, meu controlador neste grupo é %u"
+
+#: activity.py:228
+msgid "Joined an existing shared activity"
+msgstr "Juntou-se a uma atividade compartilhada existente"
+
+#: ka_status.py:34
+msgid "Collaboration"
+msgstr "Colaboração"
+
+#: ka_status.py:35
+msgid "My ID"
+msgstr "Meu ID"
+
+#: ka_status.py:36
+msgid "Share"
+msgstr "Compartilhar"
+
+#: ka_status.py:37
+#, fuzzy
+msgid "My tubes"
+msgstr "Meus vídeos"
+
+#: ka_status.py:38
+msgid "Buddies participating"
+msgstr "Colegas participando"
+
+#: ka_status.py:39
+msgid "Buddies joined"
+msgstr "Colegas que juntaram-se"
+
+#: ka_status.py:40
+msgid "Buddies left"
+msgstr ""
+
+#: ka_status.py:41
+#, fuzzy
+msgid "Received latest"
+msgstr "Últimos recebidos"
+
+#: ka_status.py:42
+msgid "Buddies found during startup"
+msgstr "Colegas encontrados durante a inicialização"
+
+#: ka_status.py:44
+msgid "Tasks"
+msgstr "Tarefas"
+
+#: ka_status.py:45
+msgid "Unfinished tasks"
+msgstr "Tarefas não terminadas"
+
+#: ka_widget.py:61
+msgid "Breed"
+msgstr "Classe"
+
+#: ka_widget.py:62
+msgid "Random"
+msgstr "Aleatório"
+
+#: ka_widget.py:63
+msgid "Flurry rate:"
+msgstr "Taxa de agitação"
+
+#: ka_widget.py:64
+msgid "Population"
+msgstr "População"
+
+#: ka_widget.py:65 ka_widget.py:77
+msgid "Zoom"
+msgstr "Zoom"
+
+#: ka_widget.py:66
+msgid "Introduction"
+msgstr "Introdução"
+
+#: ka_widget.py:67
+msgid "Status"
+msgstr "Estado"
+
+#: ka_widget.py:74
+msgid "My favorite"
+msgstr "Meu favorito"
+
+#: ka_widget.py:75
+msgid "Awful bore, replace it"
+msgstr ""
+
+#: ka_widget.py:76
+msgid "Publish to my friends"
+msgstr "Publicar para meus amigos"
+
+#: ka_widget.py:82
+#, fuzzy
+msgid "Accept protozoon"
+msgstr "Aceitar protosoário"
+
+#: ka_widget.py:83
+#, fuzzy
+msgid "Decline protozoon"
+msgstr "Rejeitar protosoário"

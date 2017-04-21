@@ -1,0 +1,125 @@
+<html>
+<head>
+<style type="text/css">
+p, li { font-family : 'DejaVu Sans', 'Sans Serif', sans-serif; }
+</style>
+</head>
+<body xmlns='http://www.w3.org/1999/xhtml'>
+  <p style='font-size:x-large'>Kandid is a system to evolve
+  graphical forms.</p><br/>
+
+  <p style='font-size:large'>Introduction</p>
+
+  <p>In Kandid a population consist of images looking like abstract
+  art or patterns. These graphical forms are not drawn by hand.
+  Instead new forms can be found using an interactive genetic
+  algorithm.</p><br/>
+
+  <p>Kandid is a combination of image rendering algorithms, genetic
+  programming and interactive aesthetic selection. The program is
+  missing a fitness function, a component you normally expect in an
+  artificial genetic system. The lack of the built in fitness
+  function is done by concept. No mathematical algorithm can decide
+  if a graphic is meaningful for the user. The fitness function in
+  Kandid is replaced by human aesthetic selection. In other words:
+  The user tolds the program which images are 'cool' or never seen
+  before.</p><br/>
+
+  <p style='font-size:large'>Usage</p>
+
+  <ol>
+    <li>You can start Kandid from your Home view by selecting Start
+    new. The new image population starts with randomly generated
+    images.<br/>
+    <img src="file:../../intro/strat-new-from-list-colormap.png" /><br/>
+    </li>
+
+    <li>An other possibility is starting Kandid with an existing
+    image population. You can load a former image population from
+    Home view or from the journal.<br/>
+    <img src="file:../../intro/resume-favorite-colormap.png" /><br/>
+    </li>
+
+    <li>A randomly produced image population looks mostly very
+    dull. Its only a starting point from where the image population
+    can be evolved in subsequent generations.<br/>
+    <img src="file:../../intro/random-population-colormap.png" /><br/>
+    </li>
+
+    <li>To evolve the new image population you must tell the program
+    which images are interesting. There is a
+    slider above every image. Use this slider to tell Kandid how
+    aesthetic these images are. For an awfully bore image give 0 or
+    1 point. For images not to bad you can give 5 or 6 points. Your
+    favorites needs 8 or 9 points.<br/>
+    <img src="file:../../intro/fitnes-slider-colormap.png" /><br/>
+    </li>
+
+    <li>Press the Random button and wait a few seconds. Some images
+    will be replaced by other. You can
+    repeat this for some rounds. Preserve interesting images by
+    moving the slider to an value between 5 and 9 points. But the result is a little bit
+    disappointing. Too much bore images. Finding good looking
+    images is like finding a needle in an haystack.
+    This is the point where evolution can help.
+    <br/>
+    </li>
+
+    <li>Press the Breed button instead of the Random button and wait a few seconds.
+    Again images with low ratings will be replaced by new images.
+    But there is one difference. These new images are offsprings of your favorite images.
+    This means that the offspring genes are build from crossing over two parental
+    genes and additionally mutating this new gene.
+    <br/><img src="file:../../intro/button_breed-colormap.png" /><br/>
+    <br/>
+    You can repeat this for a long run.
+    Always marking the image you find most appealing with a high ranking
+    and setting the images, that should not appear again in the next generation,
+    with a low ranking.
+    <br/><img src="file:../../intro/evolved-population-colormap.png" /><br/>
+    </li>
+  </ol>
+  <br/>
+
+  <p style='font-size:large'>Collaboration</p>
+
+  <p>Kandid supports collaboration by publishing a complete image population
+  or by sharing the gene of single image.</p><br/>
+ 
+  <ol>
+    <li>A new image population starts in private mode. To share it select
+    'My Neighborhood'.
+    <br/><img src="file:../../intro/neighborhood-colormap.png" /><br/>
+    </li>
+
+    <li>You can invite an other buddy to Kandid.
+    If this buddy joins, your population will be send to your friends computer.
+    Let explain this in detail: The gene of each image is send,
+    not a bitmap of the image.
+    In this way your friend can evolve an independent copy of your image population.
+    I suppose your friend has an different aesthetic feeling.
+    And after a few generations both populations will evolve in different directions.
+    <br/>
+    </li>
+
+    <li>These separated populations can share images by sending 
+    the gene of a single image to all friends. Above all images in your population you find
+    a pull down menu. Selecting 'Publish to my friends' will send the 
+    gene of this image it to all joined friends.
+    <br/><img src="file:../../intro/publish-protozoon-colormap.png" /><br/>
+    </li>
+    
+    <li>Image genes send from friends will be first displayed in a separate box.
+    You find this incoming box on the left side.
+    If you accept an incoming image, its gene will replace one of the low rated genes
+    in your population.
+    An other possibility is to decline or to ignore an incoming image.
+    Here you see white and pink colored images send from a friend.
+    Maybe he prefers bright color. It is your decision to integrate these
+    to your 'earth tones' image population or just to ignore it.
+    <br/><img src="file:../../intro/incoming-protozoon-colormap.png" /><br/>
+    </li>
+  </ol>
+
+</body>
+</html>

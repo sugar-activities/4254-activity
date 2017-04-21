@@ -1,0 +1,161 @@
+# German translations for PACKAGE package.
+# Copyright (C) 2009 Thomas Jourdan
+# This file is distributed under the GNU GENERAL PUBLIC LICENSE, Version 3.
+# Thomas Jourdan <b.vehikel@googlemail.com>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-01-19 18:15+0100\n"
+"PO-Revision-Date: 2010-03-27 23:37+0200\n"
+"Last-Translator: shellige <email@hellige-online.de>\n"
+"Language-Team: German\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.0.3\n"
+
+#: activity/activity.info:2
+msgid "Kandid"
+msgstr "Kandid"
+
+#: ep_page_gettingstarted.py:52
+msgid "Getting started"
+msgstr "Erste Schritte"
+
+#: ep_page_gettingstarted.py:53
+msgid "Read the Introduction"
+msgstr "Die Einführung anzeigen"
+
+#: ep_page_gettingstarted.py:54
+msgid "Show image population"
+msgstr "Die Bilderpopulation anzeigen"
+
+#: ep_page_gettingstarted.py:61
+msgid "getting_started"
+msgstr ""
+"Kandid ist ein System um grafische Formen und Farbkombinationen zu züchten. "
+"In aufeinander folgenden Generation erzeugt das Programm Zufallsbilder. "
+"Diese Bilder sind Vorschläge die du bewerten muss. \n"
+"\n"
+"Kandid basiert auf einer simulierten Evolution. Im Unterschied zur Evolution "
+"der Lebewesen enthält das Programm keine Fitnessfunktion, denn ein "
+"kybernetisches System hat kein ästhetisches Gefühl. Deine Aufgabe ist es aus "
+"den Vorschlägen des Programms deine Lieblingsbilder auszuwählen. Dadurch "
+"bekommen diese eine höhere Chance sich zu vermehren. Nach einigen "
+"Generationen kannst du interessante Formen und Farbkombinationen beobachten."
+
+#: activity.py:175
+msgid "Activity is shared."
+msgstr "Aktivität ist öffentlich."
+
+#: activity.py:184 activity.py:231
+#, python-format
+msgid "I am '%s', my handle in that group is %u."
+msgstr "Ich bin '%s', mein Alias in dieser Gruppe ist %u."
+
+#: activity.py:227
+msgid "Joined an existing shared activity."
+msgstr "Einer öffentlichen Aktivität beigetreten."
+
+#: ka_status.py:39
+msgid "Collaboration"
+msgstr "Zusammenarbeit"
+
+#: ka_status.py:40
+msgid "My ID"
+msgstr "Meine ID"
+
+#: ka_status.py:41
+msgid "Share"
+msgstr "Öffentlich"
+
+#: ka_status.py:42
+msgid "My tubes"
+msgstr "Meine 'D-Bus tube'"
+
+#: ka_status.py:43
+msgid "Buddies participating"
+msgstr "Freunde die mitwirken"
+
+#: ka_status.py:44
+msgid "Buddies joined"
+msgstr "Freunde die beigetreten sind"
+
+#: ka_status.py:45
+msgid "Buddies left"
+msgstr "Freunde die gegangen sind"
+
+#: ka_status.py:46
+msgid "Received latest"
+msgstr "Zuletzt erhalten"
+
+#: ka_status.py:47
+msgid "Buddies found during startup"
+msgstr "Freunde welche beim Programmstart gefunden wurden"
+
+#: ka_status.py:49
+msgid "Tasks"
+msgstr "Berechnungen"
+
+#: ka_status.py:50
+msgid "Unfinished tasks"
+msgstr "Noch laufende Berechnungen"
+
+#: ka_status.py:52
+msgid "Activity"
+msgstr "Aktivität"
+
+#: ka_status.py:53
+msgid "Running"
+msgstr "Ausgeführt wird"
+
+#: ka_widget.py:59
+msgid "Breed"
+msgstr "Brüten"
+
+#: ka_widget.py:60
+msgid "Random"
+msgstr "Zufall"
+
+#: ka_widget.py:61
+msgid "Flurry rate:"
+msgstr "Unruhe:"
+
+#: ka_widget.py:62
+msgid "Population"
+msgstr "Population"
+
+#: ka_widget.py:63 ka_widget.py:75
+msgid "Zoom"
+msgstr "Vergößern"
+
+#: ka_widget.py:64
+msgid "Introduction"
+msgstr "Einführung"
+
+#: ka_widget.py:65
+msgid "Status"
+msgstr "Status"
+
+#: ka_widget.py:72
+msgid "My favorite"
+msgstr "Mein Liebling"
+
+#: ka_widget.py:73
+msgid "Awful bore, replace it"
+msgstr "Sehr langweilig, ersetzen"
+
+#: ka_widget.py:74
+msgid "Publish to my friends"
+msgstr "An Freunde senden"
+
+#: ka_widget.py:80
+msgid "Accept protozoon"
+msgstr "Protozoon annehmen"
+
+#: ka_widget.py:81
+msgid "Decline protozoon"
+msgstr "Protozoon ablehnen"
